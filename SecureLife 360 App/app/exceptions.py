@@ -1,0 +1,2 @@
+class InvalidPolicyID(Exception):
+    pass

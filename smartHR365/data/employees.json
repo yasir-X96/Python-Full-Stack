@@ -1,0 +1,12 @@
+[
+    {
+        "emp_id": 101,
+        "name": "shree",
+        "department": "Training",
+        "salary": 40000.0,
+        "DateOfJoin": "Enter Date of Join(DD-MM-YYYY)::"
+    },
+    {
+
+    }
+]

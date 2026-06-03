@@ -1,0 +1,18 @@
+[
+    {
+        "policy_holder_id": 1,
+        "name": "Yasir",
+        "age": 35,
+        "mobile_number": "9876543210",
+        "city": "Chennai",
+        "active_policy_count": 2
+    },
+    {
+        "policy_holder_id": 2,
+        "name": "Ratna",
+        "age": 40,
+        "mobile_number": "9123456780",
+        "city": "Hyderabad",
+        "active_policy_count": 1
+    }
+]

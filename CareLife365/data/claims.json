@@ -1,0 +1,14 @@
+[
+    {
+        "claim_id": "C101",
+        "claim_amount": 50000,
+        "claim_status": "Approved",
+        "hospital_name": "Apollo"
+    },
+    {
+        "claim_id": "C102",
+        "claim_amount": 75000,
+        "claim_status": "Pending",
+        "hospital_name": "Fortis"
+    }
+]

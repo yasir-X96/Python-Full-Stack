@@ -1,0 +1,41 @@
+[
+    {
+        "policy_id": "H101",
+        "policy_name": "Health Basic",
+        "premium_amount": 15000,
+        "policy_duration": 5,
+        "coverage_amount": 500000,
+        "hospital_network": "Apollo",
+        "room_rent_limit": 5000
+    },
+    {
+        "policy_id": "L201",
+        "policy_name": "Life Secure",
+        "premium_amount": 20000,
+        "policy_duration": 10,
+        "coverage_amount": 1000000,
+        "nominee_name": "Ratna",
+        "sum_assured": 1000000
+    },
+    {
+        "policy_id": "V301",
+        "policy_name": "Car Protect",
+        "premium_amount": 12000,
+        "policy_duration": 3,
+        "coverage_amount": 300000,
+        "vehicle_number": "TS09AB1234",
+        "vehicle_type": "Car",
+        "vehicle_value": 800000
+    },
+    {
+        "policy_id": "S401",
+        "policy_name": "Senior Care",
+        "premium_amount": 18000,
+        "policy_duration": 4,
+        "coverage_amount": 400000,
+        "hospital_network": "Fortis",
+        "room_rent_limit": 7000,
+        "age_limit": 60,
+        "annual_health_checkup": true
+    }
+]

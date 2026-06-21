@@ -1,0 +1,26 @@
+[
+    {
+        "policy_id": "P101",
+        "policy_type": "Health",
+        "premium": 15000,
+        "coverage": 500000
+    },
+    {
+        "policy_id": "P102",
+        "policy_type": "Life",
+        "premium": 25000,
+        "coverage": 1000000
+    },
+    {
+        "policy_id": "P103",
+        "policy_type": "Vehicle",
+        "premium": 12000,
+        "coverage": 300000
+    },
+    {
+        "policy_id": "P104",
+        "policy_type": "Senior",
+        "premium": 18000,
+        "coverage": 700000
+    }
+]

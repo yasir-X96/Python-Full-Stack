@@ -1,0 +1,26 @@
+[
+    {
+        "emp_id": 200,
+        "name": "shree",
+        "department": "IT",
+        "DateOfJoin": "20-06-2026",
+        "salary": 20000.0,
+        "experience": 4
+    },
+    {
+        "emp_id": 100,
+        "name": "shree",
+        "department": "IT",
+        "DateOfJoin": "20-05-2026",
+        "salary": 2000.0,
+        "experience": 4
+    },
+    {
+        "emp_id": 101,
+        "name": "Yasir",
+        "department": "CSM",
+        "DateOfJoin": "28-08-2005",
+        "salary": 100000.0,
+        "experience": 2
+    }
+]

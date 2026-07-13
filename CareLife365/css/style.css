@@ -1,0 +1,40 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+body{
+    font-family:Arial,sans-serif;
+}
+
+.hero{
+    height:400px;
+    background:url("../images/hero.jpg") center/cover;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+
+.hero .container{
+    background:rgba(0,0,0,0.5);
+    padding:30px;
+    border-radius:10px;
+}
+
+.card img{
+    height:180px;
+    object-fit:cover;
+}
+
+.card{
+    transition:.3s;
+}
+
+.card:hover{
+    transform:scale(1.05);
+}
+
+footer{
+    margin-top:30px;
+}

@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Employee Management Dashboard</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+
+        input,
+        button {
+            padding: 8px;
+            margin: 5px;
+        }
+
+        li {
+            margin: 8px 0;
+        }
+
+        .highlight {
+            background-color: yellow;
+        }
+    </style>
+</head>
+
+<body>
+
+    <h1 id="title">Employee Management Dashboard</h1>
+
+    <p id="date"></p>
+
+    <input type="text" id="employeeName" placeholder="Enter Employee Name">
+
+    <button id="addBtn">Add Employee</button>
+
+    <button id="countBtn">Count Employees</button>
+
+    <button id="changeTitleBtn">Change Title</button>
+
+    <h3>
+        Total Employees:
+        <span id="count">0</span>
+    </h3>
+
+    <ul id="employeeList"></ul>
+
+    <script src="index.js"></script>
+
+</body>
+
+</html>

@@ -1,0 +1,13 @@
+.employee-container{
+    display:flex;
+    flex-wrap:wrap;
+}
+
+.employees h2{
+    text-align: center;
+    margin-bottom: 25px;
+}
+.employees{
+    padding:20px;
+    min-height: 80vh;
+}

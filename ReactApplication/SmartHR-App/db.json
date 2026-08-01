@@ -1,0 +1,75 @@
+{
+  "employees": [
+    {
+      "id": "2",
+      "name": "Bob Smith",
+      "designation": "Senior Software Engineer",
+      "department": "Engineering",
+      "salary": 105000,
+      "image":"https://cdn.pixabay.com/photo/2020/09/17/01/49/computer-5577756_1280.png"
+    },
+    {
+      "id": "3",
+      "name": "Carol Martinez",
+      "designation": "Product Manager",
+      "department": "Product",
+      "salary": 98000,
+      "image": "https://cdn.pixabay.com/photo/2020/09/17/01/49/computer-5577756_1280.png"
+    },
+    {
+      "id": "6",
+      "name": "Frank Wilson",
+      "designation": "QA Engineer",
+      "department": "Quality Assurance",
+      "salary": 70000,
+      "image": "https://cdn.pixabay.com/photo/2020/09/17/01/49/computer-5577756_1280.png"
+    }
+    
+  ],
+  "users": [
+    {
+      "name": "shree",
+      "email": "shreevidhya.qa@gmail.com",
+      "password": "shree",
+      "id": "9lwGvw2e1aI"
+    },
+    {
+      "name": "anvesh",
+      "email": "anvesh@gmail.com",
+      "password": "anvesh",
+      "id": "PaHcJLHjwPU"
+    },
+    {
+      "name": "darshan",
+      "email": "darshan@gmail",
+      "password": "darshan",
+      "id": "opNJOgq-RoE"
+    },
+    {
+      "name": "dummyUser",
+      "email": "dummy@gmail.com",
+      "password": "dummy",
+      "id": "GB4VH78MBjs"
+    },
+    {
+      "name": "veena",
+      "email": "veena@gmail.com",
+      "password": "Veena@123",
+      "id": "DLuNmnYBe4Q"
+    },
+    {
+      "name": "yasir",
+      "email": "yasir@gmail.com",
+      "password": "Yasir@123",
+      "id": "d8ei17F1Juk"
+    },
+    {
+      "name": "shashank",
+      "email": "shashank@gmail.com",
+      "password": "Shashank@123",
+      "id": "dz2bbbsJBuU"
+    }
+  ],
+  "schema": [],
+  "$schema": "./node_modules/json-server/schema.json"
+}
